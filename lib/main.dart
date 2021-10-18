@@ -14,7 +14,7 @@ class AppWidget extends StatelessWidget {
     // ignore: prefer_const_constructors
     return MaterialApp(
       title: 'Randomizer',
-      home: const RangeSelectorPage(),
+      home: RangeSelectorPage(),
     );
   }
 }
