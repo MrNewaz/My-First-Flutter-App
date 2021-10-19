@@ -2,7 +2,6 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_foundation/main.dart';
-import 'package:flutter_foundation/randomizer_state_notifier.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 typedef IntValueSetter = void Function(int value);
