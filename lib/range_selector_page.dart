@@ -1,8 +1,8 @@
 // ignore_for_file: prefer_const_constructors
 
 import 'package:flutter/material.dart';
-import 'package:flutter_foundation/randomizer_page.dart';
-import 'package:flutter_foundation/range_selector_form.dart';
+import 'package:newaz_app/randomizer_page.dart';
+import 'package:newaz_app/range_selector_form.dart';
 
 class RangeSelectorPage extends StatelessWidget {
   final formKey = GlobalKey<FormState>();

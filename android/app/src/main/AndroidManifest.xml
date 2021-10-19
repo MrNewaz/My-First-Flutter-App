@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.newaz.flutter_foundation">
+    package="com.newaz.newaz_app">
    <application
-        android:label="flutter_foundation"
+        android:label="newaz_app"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

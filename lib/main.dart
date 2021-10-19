@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_foundation/randomizer_state_notifier.dart';
-import 'package:flutter_foundation/range_selector_page.dart';
+import 'package:newaz_app/randomizer_state_notifier.dart';
+import 'package:newaz_app/range_selector_page.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 void main() {

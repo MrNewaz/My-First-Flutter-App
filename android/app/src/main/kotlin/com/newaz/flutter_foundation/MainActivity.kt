@@ -1,4 +1,4 @@
-package com.newaz.flutter_foundation
+package com.newaz.newaz_app
 
 import io.flutter.embedding.android.FlutterActivity
 

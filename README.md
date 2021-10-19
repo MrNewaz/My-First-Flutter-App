@@ -1,4 +1,4 @@
-# flutter_foundation
+# newaz_app
 
 A new Flutter project.
 

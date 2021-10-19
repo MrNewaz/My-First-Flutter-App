@@ -1,7 +1,7 @@
 // ignore_for_file: prefer_const_constructors, prefer_const_constructors_in_immutables
 
 import 'package:flutter/material.dart';
-import 'package:flutter_foundation/main.dart';
+import 'package:newaz_app/main.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 class RandomizerPage extends ConsumerWidget {
